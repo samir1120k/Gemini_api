@@ -22,8 +22,9 @@ Welcome to the **AI Assistant** project! This application combines cutting-edge 
 ## 📋 How It Works
 
 1. **Chat Mode**: Users ask the question, and the app fetches a conversational response from the Gemini API.
-2. **Image Generation**: Users input a description, and the app generates an AI-crafted image based on the description.
-3. **Responsive Interface**: Provides an optimized layout for various devices, including smartphones and tablets.
+2. **Voice**: support for voice interactions.<br>
+3. **Image Generation**: Users input a description, and the app generates an AI-crafted image based on the description.
+4. **Responsive Interface**: Provides an optimized layout for various devices, including smartphones and tablets.
 
 ---
 
@@ -73,7 +74,6 @@ ai-assistant<br>
 4.flutter run<br>
 
 ## 🌟 Future Enhancements
-Add support for voice interactions.<br>
 Implement advanced image customization options.<br>
 Provide offline chatbot capabilities using local AI models.<br>
 
